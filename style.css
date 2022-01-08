@@ -17,7 +17,7 @@ body {
 }
 
 .logo a {
-    font-size: 30px;
+    font-size: 50px;
     font-weight: 600;
     float: left;
     font-family: courier;
@@ -29,7 +29,7 @@ body {
 }
 
 nav {
-    width: 80%;
+    width: 100%;
     margin: auto;
     display: flex;
     line-height: 70px;
@@ -38,7 +38,7 @@ nav {
     top: 0;
     background: #fac3c3;
     z-index: 1;
-    border-bottom:1px solid #364f6b;
+    
 }
 
 nav ul {
